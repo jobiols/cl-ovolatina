@@ -29,8 +29,6 @@
         'sale_management',
         'account_invoicing',
         'purchase',
-        'project',
-        'crm',
     ],
     'data': [
     ],
