@@ -43,7 +43,7 @@
 
     'port': '8069',
     'repos': [
-        {'usr': 'jobiols', 'repo': 'cl-ovolatina', 'branch': '11.0'},
+        {'usr': 'jobiols', 'repo': 'cl-ovolatina', 'branch': '11.0e'},
         {'usr': 'OCA', 'repo': 'web', 'branch': '11.0'},
 
     ],
