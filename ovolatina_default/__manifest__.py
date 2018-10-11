@@ -20,7 +20,7 @@
 # -----------------------------------------------------------------------------
 {
     'name': 'ovolatina',
-    'version': '11.0.0.0.0',
+    'version': '11e.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customizacion para Ovolatina',
