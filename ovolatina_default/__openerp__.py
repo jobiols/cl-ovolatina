@@ -19,11 +19,11 @@
 #
 # -----------------------------------------------------------------------------
 {
-    'name': 'solar',
+    'name': 'ovolatina',
     'version': '11.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
-    'summary': 'Customizacion para Panasolar International',
+    'summary': 'Customizacion para Ovolatina',
     'author': 'jeo Software',
     'depends': [
         'sale_management',
@@ -43,12 +43,12 @@
 
     'port': '8069',
     'repos': [
-        {'usr': 'jobiols', 'repo': 'cl-solar', 'branch': '11.0'},
+        {'usr': 'jobiols', 'repo': 'cl-ovolatina', 'branch': '11.0'},
         {'usr': 'OCA', 'repo': 'web', 'branch': '11.0'},
 
     ],
     'docker': [
-        {'name': 'odoo', 'usr': 'jobiols', 'img': 'odoo-jeo', 'ver': '11.0'},
+        {'name': 'odoo', 'usr': 'jobiols', 'img': 'odoo-jeo', 'ver': '11.0+e'},
         {'name': 'postgres', 'usr': 'postgres', 'ver': '9.6'},
         {'name': 'nginx', 'usr': 'nginx', 'ver': 'latest'}
     ]
