@@ -20,7 +20,7 @@
 # -----------------------------------------------------------------------------
 {
     'name': 'ovolatina',
-    'version': '11e.0.0.0.0',
+    'version': '11e.0.0.0.1',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customizacion para Ovolatina',
@@ -60,6 +60,7 @@
         {'usr': 'ingadhoc', 'repo': 'argentina-reporting', 'branch': '11.0'},
         {'usr': 'ingadhoc', 'repo': 'reporting-engine', 'branch': '11.0'},
         {'usr': 'ingadhoc', 'repo': 'aeroo_reports', 'branch': '11.0'},
+        {'usr': 'ingadhoc', 'repo': 'enterprise-extensions', 'branch': '11.0'},
         {'usr': 'OCA', 'repo': 'partner-contact', 'branch': '11.0'},
         {'usr': 'OCA', 'repo': 'web', 'branch': '11.0'},
         {'usr': 'OCA', 'repo': 'server-tools', 'branch': '11.0'},

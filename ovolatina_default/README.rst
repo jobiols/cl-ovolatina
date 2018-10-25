@@ -12,6 +12,11 @@ Customization |customer|
 
 This module is a customization for |customer| made by jeo Software
 
+Monte Bre Ok . Punto de Venta 5
+ENO LATINA SA  ok . Punto de Venta 3
+VERTICAL SA ok. Punto de venta 3
+OVOLATINA  SA OK. Punto de venta 20
+
 Installation
 ============
 
